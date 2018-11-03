@@ -1,7 +1,7 @@
 # Miles 
-please upload your projects in a folder with your name , and then another folder inside with what version it is
+please upload your projects in a folder with your name_version
 
 
 please include a readme on what functions or methods is working inside
 
-example : miles/pengcheng/ver0.1/readme.txt
+example : miles/pengcheng_v0.1/readme.txt etc
