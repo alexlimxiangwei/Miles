@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FireApp</string>
+    <string name="add_value_to_firebase">Add Value To Firebase</string>
+    <string name="add_artist">Add Artist</string>
+    <string name="name">Name</string>
+    <string name="textviewName">TextView</string>
+    <string name="textviewGenre">TextView</string>
+
+    <array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Pop</item>
+        <item>Folk</item>
+    </array>
+</resources>
