@@ -1,1 +1,8 @@
-
+CountDownWithIFTTT 
+set time 30 mins
+begin will active the device
+start to count the time
+last 10 mins to remind user about top up water
+if user top up, back to 30 mins again
+otherwise, continue to count last 10 mins
+when the time to be 0s, device will off.
