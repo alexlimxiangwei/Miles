@@ -29,6 +29,7 @@ Ver.2
 
 
 ~note~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(below sentence mention about "Bluetooth multiple".)
 Any code I added is enclosed in comments ("/// << /// >>").
 Any code I modified is have "//@@//" on end of row.
 you can find such row by using ctrl & F.
